@@ -1,0 +1,2 @@
+# The Greatest and Least of These
+Examine the code and run the program to see how it functions. Modify the code so that in addition to the highest score, the program also keeps track of the lowest scores entered as the loop iterates. You can assume the scores are between 0 to 100. After all the numbers have been entered, the program should also display the lowest number entered.
